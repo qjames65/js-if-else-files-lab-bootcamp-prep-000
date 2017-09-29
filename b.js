@@ -1,4 +1,4 @@
-var a = require("./a.js")
+var a = require("./index.js")
 
 if (a.name === "Susan") {
 console.log("The name is correct.")
